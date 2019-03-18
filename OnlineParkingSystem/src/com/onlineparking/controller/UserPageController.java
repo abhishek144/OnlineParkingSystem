@@ -1,4 +1,4 @@
-package com.carparking.controller;
+package com.onlineparking.controller;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -8,16 +8,16 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class AdminPageController
+ * Servlet implementation class UserPageController
  */
-@WebServlet("/AdminPageController")
-public class AdminPageController extends HttpServlet {
+@WebServlet("/UserPageController")
+public class UserPageController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public AdminPageController() {
+    public UserPageController() {
         super();
         // TODO Auto-generated constructor stub
     }

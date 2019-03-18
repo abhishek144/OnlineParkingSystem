@@ -1,4 +1,4 @@
-package com.carparking.controller;
+package com.onlineparking.controller;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
