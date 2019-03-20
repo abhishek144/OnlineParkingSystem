@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h1>Hello <%=request.getAttribute("USERNAME") %>, This is admin page</h1>
 </body>
 </html>
