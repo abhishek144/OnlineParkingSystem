@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Hello <%=request.getAttribute("USERNAME") %>, This is admin page</h1>
+For Registration <a href="AdminSection/registration.jsp">click here</a>
 </body>
 </html>

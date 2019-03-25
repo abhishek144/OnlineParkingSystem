@@ -9,6 +9,7 @@ public class OnlineParkingUser {
 	private String idType;
 	private String idnumber;
 	private String uname;
+	private String gender;
 	private String email;
 	private String mobile;
 	private String password;
@@ -53,5 +54,11 @@ public class OnlineParkingUser {
 	}
 	public void setPassword(String password) {
 		this.password = password;
+	}
+	public String getGender() {
+		return gender;
+	}
+	public void setGender(String gender) {
+		this.gender = gender;
 	}
 }
