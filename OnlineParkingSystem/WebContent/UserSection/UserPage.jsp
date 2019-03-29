@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>This is user page</h1>
+<h1>This is user page   <a href="../UserSection/History.jsp">Click here</a></h1>
 </body>
 </html>
