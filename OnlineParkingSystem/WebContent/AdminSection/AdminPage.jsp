@@ -82,7 +82,7 @@ body {
 				</ul>
 			</li>
 
-			<li>Profile</li>
+			<li>Profile Manage</li>
 		</ul>
 	</div>
 </body>
