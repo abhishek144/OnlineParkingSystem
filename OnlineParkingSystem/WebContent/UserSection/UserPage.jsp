@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>This is user page   <a href="../UserSection/History.jsp">Click here</a></h1>
+<h1>This is user page Welcome to Online parking system  <a href="../UserSection/History.jsp">Click here</a></h1>
 checking
 </body>
 </html>
