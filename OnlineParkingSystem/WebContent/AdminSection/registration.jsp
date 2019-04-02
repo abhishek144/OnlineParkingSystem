@@ -8,7 +8,7 @@
 <link href="../CSSFiles/Styles.css" rel="stylesheet" />
 </head>
 <body>
-	<form action="" method="post">
+	<form action="AdminPageController" method="post">
 		<div class="form-area">
 			<h1>Register</h1>
 			<table>
